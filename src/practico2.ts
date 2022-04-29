@@ -13,4 +13,4 @@ if (posicionCarrera === 1) {
     }
   }
 }
-
+//Me salio genial el programa
